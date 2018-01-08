@@ -1,5 +1,5 @@
 cask 'journey' do
-  version '2.2.11'
+  version '2.3.0'
   sha256 '7ab862b6db0337cbbc632a2b791dd73dd564570b6ff71ddbbd790d0ab850a0ba'
 
   # github.com/2-App-Studio/journey-releases was verified as official when first introduced to the cask
